@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <!-- 가이포크스 가면 일러스트 (직접 그린 더미 이미지) -->
+  <rect width="160" height="160" fill="#1f2937"/>
+  <!-- 얼굴 -->
+  <path d="M80 18c-30 0-46 22-46 52 0 34 20 66 46 72 26-6 46-38 46-72 0-30-16-52-46-52z" fill="#f5efe0" stroke="#111827" stroke-width="2"/>
+  <!-- 볼 홍조 -->
+  <ellipse cx="54" cy="92" rx="10" ry="7" fill="#f4a3a3" opacity="0.8"/>
+  <ellipse cx="106" cy="92" rx="10" ry="7" fill="#f4a3a3" opacity="0.8"/>
+  <!-- 눈썹 -->
+  <path d="M46 58c8-9 20-10 28-3" fill="none" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+  <path d="M114 58c-8-9-20-10-28-3" fill="none" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+  <!-- 눈 -->
+  <path d="M52 70c6-5 14-5 20 0-6 3-14 3-20 0z" fill="#111827"/>
+  <path d="M108 70c-6-5-14-5-20 0 6 3 14 3 20 0z" fill="#111827"/>
+  <!-- 코 -->
+  <path d="M80 66v24c-3 3-6 3-8 1" fill="none" stroke="#111827" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- 콧수염 -->
+  <path d="M80 102c-10-6-22-5-30 4-4 5-10 5-12-2 2 12 16 12 26 4 6-4 12-5 16-3 4-2 10-1 16 3 10 8 24 8 26-4-2 7-8 7-12 2-8-9-20-10-30-4z" fill="#111827"/>
+  <!-- 미소 -->
+  <path d="M62 112c10 8 26 8 36 0" fill="none" stroke="#111827" stroke-width="2" stroke-linecap="round"/>
+  <!-- 턱수염 -->
+  <path d="M80 118l-4 18h8z" fill="#111827"/>
+</svg>
